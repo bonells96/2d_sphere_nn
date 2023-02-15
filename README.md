@@ -8,8 +8,11 @@ This repository contains code for building and training a neural network using P
 To run the code in this repository, you'll need the following:
 
 PyTorch (we used version 1.9.0)
+
 NumPy
+
 Matplotlib (optional, for visualizing the results)
+
 Seaborn
 
 
