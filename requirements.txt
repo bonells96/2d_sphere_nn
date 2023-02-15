@@ -1,0 +1,12 @@
+Flask==2.2.2
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1674078867946/work
+numpy==1.24.1
+pandas==1.5.3
+scikit-learn==1.2.1
+scipy==1.10.0
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1672497695270/work
+sklearn==0.0.post1
+torch==2.0.0.dev20230201
+torchaudio==2.0.0.dev20230131
+torchvision==0.15.0.dev20230131
+tqdm==4.64.1
