@@ -4,7 +4,6 @@ import torch.nn.functional as F
 import math
 
 
-
 class SphereNeuralNetwork(nn.Module):
     def __init__(self):
         super(SphereNeuralNetwork, self).__init__()
