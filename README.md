@@ -32,7 +32,7 @@ $$f(x) = \sigma_2 (W_2 \times \sigma_1(W_1 \times x)) $$
 (We avoided the biases $b_1, b_2$ in the equation for simplicity)
 
 Where $\sigma_1$ is a ReLU activation function and $\sigma_2$ is a sigmoid activation.
-$W_1 \in \mathbb{R}^{128,2}$ and $W_2 \in \mathbb{R}^{128,2}$ are learnable matrices.
+$W_1 \in \mathbb{R}^{128,2}$ and $W_2 \in \mathbb{R}^{2,128}$ are learnable matrices.
 
 The training had 250 epochs and $lr=0.01$
 
